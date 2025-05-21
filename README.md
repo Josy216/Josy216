@@ -42,7 +42,7 @@ I'm confident in my ability to build powerful, real-world web applications and c
 - 🎬 **Netflix Clone**  
   A streaming platform UI built with React and Firebase Auth.  
   🔗 [Live Site](https://jocode-movies.netlify.app)  
-  🔗 [Code on GitHub](https://github.com/Josy216/netflix-clone-react-firebase)
+  🔗 [Code on GitHub](https://github.com/Josy216/netflix)
 
 Other projects are available in my repositories.
 
