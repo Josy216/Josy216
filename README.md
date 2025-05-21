@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm  dedicated full stack web developer and computer science student. I trained at **Evangadi Tech**, an intensive bootcamp, where I learned full stack development from scratch — including **React**, **Firebase**, **Node.js**, and more.
+I'm a dedicated full stack web developer and computer science student. I trained at **Evangadi Tech**, an intensive bootcamp, where I learned full stack development from scratch — including **React**, **Node.js**, **Express**, **MySQL**, and more.
 
 We built real-world, scalable projects like Netflix, Amazon, Apple clones, and dynamic forums. I collaborated with developers across the globe and learned not only how to code, but how the web really works — from frontend rendering to backend logic, databases, APIs, and hosting.
 
@@ -26,12 +26,11 @@ I'm confident in my ability to build powerful, real-world web applications and c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
@@ -63,7 +62,7 @@ Other projects are available in my repositories.
 
 <p align="center">
   <a href="https://josteka.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" width="30" alt="Portfolio" />
+    🌍Portfolio
   </a>
   <a href="https://t.me/josephteka" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" alt="Telegram" />
