@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Passionate Learner | Community Contributor</h3>
 
 <p align="center">
-  👨‍💻 I'm a developer who loves building web and mobile experiences.<br>
+  👨‍💻 I'm a developer who loves building web and mobile web apps.<br>
   📚 Currently exploring new technologies and sharing resources through my Telegram group.<br>
   💡 Always curious to learn more and create impactful projects.
 </p>
