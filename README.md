@@ -61,8 +61,8 @@ Other projects are available in my repositories.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://josteka.netlify.app/" target="_blank">
-    🌍Portfolio
+  <a href="https://josteka.netlify.app/" target="_blank" title="portfolio">
+    🌍
   </a>
   <a href="https://t.me/josephteka" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" alt="Telegram" />
