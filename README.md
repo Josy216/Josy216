@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Joseph Teka</h1><h3 align="center">🚀 Full Stack Web Developer | Lifelong Learner | Problem Solver</h3>
+<h1 align="center">Hey 👋, I'm Joseph Teka</h1><h3 align="center">🚀 Full Stack Web Developer.</h3>
 
 <p align="center">
   👨‍💻 Crafting scalable and efficient web applications with modern technologies.<br>
