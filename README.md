@@ -35,6 +35,34 @@
 </p>
 
 ---
+### 🎓 My Certifications
+
+I’ve completed several courses to strengthen my skills in web development and programming languages. Here are some highlights:
+
+<p align="center">
+  <a href="https://josateka.netlify.app/certificates/web.jpg" target="_blank">
+    <img src="https://josateka.netlify.app/certificates/web.jpg" alt="Web Development Certificate" width="250" style="margin:10px"/>
+  </a>
+  <br>
+  <em>Web Development (HTML, CSS, JavaScript) - SoloLearn</em>
+</p>
+
+<p align="center">
+  <a href="https://josateka.netlify.app/certificates/c++.png" target="_blank">
+    <img src="https://josateka.netlify.app/certificates/c++.png" alt="C++ Certificate" width="250" style="margin:10px"/>
+  </a>
+  <br>
+  <em>C++ Programming - SoloLearn</em>
+</p>
+
+<p align="center">
+  <a href="https://josateka.netlify.app/certificates/java.jpg" target="_blank">
+    <img src="https://josateka.netlify.app/certificates/java.jpg" alt="Java Certificate" width="250" style="margin:10px"/>
+  </a>
+  <br>
+  <em>Java Programming - SoloLearn</em>
+</p>
+
 
 ### 🌐 Connect with Me
 
