@@ -40,15 +40,23 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://josteka.netlify.app/" target="_blank">🌍 Portfolio</a> •
-  <a href="https://t.me/josephteka" target="_blank">💬 Telegram</a> •
-  <a href="https://www.linkedin.com/in/joseph-teka-271661309" target="_blank">👔 LinkedIn</a> •
-  <a href="https://t.me/codesprin" target="_blank">👥Get Free Resource</a>
-  <a href="https://www.tiktok.com/@jocode216" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" width="30" height="30"/> @jocode216
-</a>
-
+  <a href="https://josteka.netlify.app/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Portfolio" width="24" height="24" /> Portfolio
+  </a>
+  <a href="https://t.me/josephteka" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24" /> Telegram
+  </a>
+  <a href="https://www.linkedin.com/in/joseph-teka-271661309" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24" /> LinkedIn
+  </a>
+  <a href="https://t.me/codesprin" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="CodeSPrin" width="24" height="24" /> Get Free Resource
+  </a>
+  <a href="https://www.tiktok.com/@jocode216" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" width="24" height="24" /> @jocode216
+  </a>
 </p>
+
 
 ---
 
