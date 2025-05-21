@@ -40,8 +40,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://josteka.netlify.app/" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Portfolio" width="24" height="24" /> Portfolio
+  <a href="https://josteka.netlify.app/" target="_blank" style="margin: 0 10px;">  🌍Portfolio
   </a>
   <a href="https://t.me/josephteka" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24" /> Telegram
