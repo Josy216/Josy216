@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Joseph Teka</h1>
 
-<h3 align="center">🚀 Full Stack Web Developer | Lifelong Learner | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Web Developer.</h3>
 
 <p align="center">
   👨‍💻 Computer Science student at <strong>Jimma University, Ethiopia</strong><br>
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm  dedicated full stack web developer and computer science student. I trained at **Evangadi Tech**, an intensive bootcamp based in Mayland, where I learned full stack development from scratch — including **React**, **Firebase**, **Node.js**, and more.
+I'm  dedicated full stack web developer and computer science student. I trained at **Evangadi Tech**, an intensive bootcamp, where I learned full stack development from scratch — including **React**, **Firebase**, **Node.js**, and more.
 
 We built real-world, scalable projects like Netflix, Amazon, Apple clones, and dynamic forums. I collaborated with developers across the globe and learned not only how to code, but how the web really works — from frontend rendering to backend logic, databases, APIs, and hosting.
 
@@ -29,6 +29,9 @@ I'm confident in my ability to build powerful, real-world web applications and c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
@@ -42,31 +45,16 @@ I'm confident in my ability to build powerful, real-world web applications and c
   🔗 [Live Site](https://jocode-movies.netlify.app)  
   🔗 [Code on GitHub](https://github.com/Josy216/netflix-clone-react-firebase)
 
-Other projects available in my repositories.
+Other projects are available in my repositories.
 
 ---
 
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://josateka.netlify.app/certificates/web.jpg" target="_blank">
-    <img src="https://josateka.netlify.app/certificates/web.jpg" alt="Web Dev Certificate" width="250"/>
-    <br><em>Web Development (HTML, CSS, JavaScript) - SoloLearn</em>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://josateka.netlify.app/certificates/c++.png" target="_blank">
-    <img src="https://josateka.netlify.app/certificates/c++.png" alt="C++ Certificate" width="250"/>
-    <br><em>C++ Programming - SoloLearn</em>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://josateka.netlify.app/certificates/java.jpg" target="_blank">
-    <img src="https://josateka.netlify.app/certificates/java.jpg" alt="Java Certificate" width="250"/>
-    <br><em>Java Programming - SoloLearn</em>
-  </a>
+  <img src="https://josateka.netlify.app/certificates/web.jpg" alt="Web Dev Certificate" width="250"/>
+  <img src="https://josateka.netlify.app/certificates/c++.png" alt="C++ Certificate" width="250"/>
+  <img src="https://josateka.netlify.app/certificates/java.jpg" alt="Java Certificate" width="250"/>
 </p>
 
 ---
@@ -75,18 +63,20 @@ Other projects available in my repositories.
 
 <p align="center">
   <a href="https://josteka.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Portfolio" width="24" /> Portfolio
-  </a> •
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" width="30" alt="Portfolio" />
+  </a>
   <a href="https://t.me/josephteka" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" /> Telegram
-  </a> •
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" alt="Telegram" />
+  </a>
   <a href="https://www.linkedin.com/in/joseph-teka-271661309" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" /> LinkedIn
-  </a> •
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" alt="LinkedIn" />
+  </a>
   <a href="https://t.me/codesprin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="CodeSPrin" width="24" /> Get Free Resource
-  </a> •
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" alt="Telegram Group" />
+  </a>
   <a href="https://www.tiktok.com/@jocode216" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" width="24" /> @jocode216
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="30" alt="TikTok" />
   </a>
 </p>
+
+<p align="center"><em>"Forced to write code, born to be creative."</em></p>
