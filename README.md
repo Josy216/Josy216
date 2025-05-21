@@ -61,7 +61,7 @@ Other projects are available in my repositories.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://josteka.netlify.app/" target="_blank" title="portfolio">
+  <a href="https://josteka.netlify.app/" target="_blank" title="portfolio" width="30">
     🌍
   </a>
   <a href="https://t.me/josephteka" target="_blank">
