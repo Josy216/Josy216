@@ -78,4 +78,5 @@ Other projects are available in my repositories.
   </a>
 </p>
 
-<p align="center"><em>"Forced to write code, born to be creative."</em></p>
+<p align="center"><em>"Forced to write code, born to be creative."</em><br>
+<em>— Proudly building the future from Ethiopia to the world.</em></p>
