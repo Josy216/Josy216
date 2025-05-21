@@ -42,7 +42,11 @@
   <a href="https://josteka.netlify.app/" target="_blank">🌍 Portfolio</a> •
   <a href="https://t.me/josephteka" target="_blank">💬 Telegram</a> •
   <a href="https://www.linkedin.com/in/joseph-teka-271661309" target="_blank">👔 LinkedIn</a> •
-  <a href="https://t.me/codesprin" target="_blank">👥 CodeSPrin Group</a>
+  <a href="https://t.me/codesprin" target="_blank">👥Get Free Resource</a>
+  <a href="https://www.tiktok.com/@jocode216" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" width="30" height="30"/> @jocode216
+</a>
+
 </p>
 
 ---
