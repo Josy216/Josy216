@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Joseph Teka</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate Learner | Community Contributor</h3>
+<h1 align="center">Hey 👋, I'm Joseph Teka</h1><h3 align="center">🚀 Full Stack Web Developer | Lifelong Learner | Problem Solver</h3>
 
 <p align="center">
-  👨‍💻 I'm a developer who loves building web and mobile web apps.<br>
-  📚 Currently exploring new technologies and sharing resources through my Telegram group.<br>
-  💡 Always curious to learn more and create impactful projects.
+  👨‍💻 Crafting scalable and efficient web applications with modern technologies.<br>
+  📈 Continuously expanding my skill set by exploring cutting-edge tools and frameworks.<br>
+  💡 Dedicated to delivering clean, maintainable code and impactful digital experiences.
 </p>
+
 
 ---
 
