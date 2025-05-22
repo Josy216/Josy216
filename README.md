@@ -41,7 +41,7 @@ I'm confident in my ability to build powerful, real-world web applications and c
 
 - 🎬 **Netflix Clone**  
   A streaming platform UI built with React and Firebase Auth.  
-  🔗 Live demo](https://jocode-movies.netlify.app)  
+  🔗 [Live demo](https://jocode-movies.netlify.app)  
   🔗 [Code](https://github.com/Josy216/netflix)
 - 🌐 **Portfolio Website** — _HTML, CSS, JavaScript_
   Personal developer portfolio showcasing skills, projects, and certificates.  
