@@ -1,3 +1,4 @@
+```html
 <h1 align="center">Hi there 👋, I'm Joseph Teka</h1>
 
 <h3 align="center">🚀 Full Stack Web Developer.</h3>
@@ -39,23 +40,24 @@ I'm confident in my ability to build powerful, real-world web applications and c
 
 ## 🔥 Featured Projects
 
-🎬 Netflix Clone
-A streaming platform UI built with React and Firebase Auth.
-🔗 Live demo
-🔗 Code
+- 🎬 **Netflix Clone**  
+  A streaming platform UI built with React and Firebase Auth.  
+  🔗 [Live demo](https://jocode-movies.netlify.app)  
+  🔗 [Code](https://github.com/Josy216/netflix)
 
-🛒 Amazon Clone
-A beginner-friendly Amazon-style UI built with HTML, CSS, and JavaScript.
-Practiced layout structure, product cards, headers, and basic DOM interaction.
-🔗 Live demo
-🔗 Code
+- 🛒 **Amazon Clone**  
+  A beginner-friendly Amazon-style UI built with HTML, CSS, and JavaScript.  
+  Practiced layout structure, product cards, headers, and basic DOM interaction.  
+  🔗 [Live demo](https://josy216.github.io/My-Amazon/)  
+  🔗 [Code](https://github.com/Josy216/My-Amazon)
 
-🌐 Portfolio Website — HTML, CSS, JavaScript
-Personal developer portfolio showcasing skills, projects, and certificates.
-🔗 Live Demo | 🔗 Code
-
+- 🌐 **Portfolio Website** — _HTML, CSS, JavaScript_  
+  Personal developer portfolio showcasing skills, projects, and certificates.  
+  🔗 [Live Demo](https://josteka.netlify.app) | 🔗 [Code](https://github.com/Josy216/final-port)
 
 Other projects are available in my repositories.
+
+---
 
 ## 📜 Certifications
 
@@ -70,7 +72,6 @@ Other projects are available in my repositories.
 ## 🌐 Connect With Me
 
 <p align="center">
-  
   <a href="https://t.me/josephteka" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" alt="Telegram" />
   </a>
@@ -87,3 +88,4 @@ Other projects are available in my repositories.
 
 <p align="center"><em>"Forced to write code, born to be creative."</em><br>
 <em>— Proudly building the future from Ethiopia to the world.</em></p>
+```
