@@ -39,17 +39,23 @@ I'm confident in my ability to build powerful, real-world web applications and c
 
 ## 🔥 Featured Projects
 
-- 🎬 **Netflix Clone**  
-  A streaming platform UI built with React and Firebase Auth.  
-  🔗 [Live demo](https://jocode-movies.netlify.app)  
-  🔗 [Code](https://github.com/Josy216/netflix)
-- 🌐 **Portfolio Website** — _HTML, CSS, JavaScript_
-  Personal developer portfolio showcasing skills, projects, and certificates.  
-  [Live Demo](https://josteka.netlify.app) | [Code](https://github.com/Josy216/final-port)
+🎬 Netflix Clone
+A streaming platform UI built with React and Firebase Auth.
+🔗 Live demo
+🔗 Code
+
+🛒 Amazon Clone
+A beginner-friendly Amazon-style UI built with HTML, CSS, and JavaScript.
+Practiced layout structure, product cards, headers, and basic DOM interaction.
+🔗 Live demo
+🔗 Code
+
+🌐 Portfolio Website — HTML, CSS, JavaScript
+Personal developer portfolio showcasing skills, projects, and certificates.
+🔗 Live Demo | 🔗 Code
+
 
 Other projects are available in my repositories.
-
----
 
 ## 📜 Certifications
 
