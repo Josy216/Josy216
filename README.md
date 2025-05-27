@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi there 👋, I'm Joseph Teka</h1>
 
 <h3 align="center">🚀 Full Stack Web Developer.</h3>
@@ -88,4 +88,3 @@ Other projects are available in my repositories.
 
 <p align="center"><em>"Forced to write code, born to be creative."</em><br>
 <em>— Proudly building the future from Ethiopia to the world.</em></p>
-```
