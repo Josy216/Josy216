@@ -46,8 +46,8 @@ I'm confident in my ability to build powerful, real-world web applications and c
   🔗 [Code](https://github.com/Josy216/netflix)
 
 - 🛒 **Amazon Clone**  
-  A beginner-friendly Amazon-style UI built with HTML, CSS, and JavaScript.  
-  Practiced layout structure, product cards, headers, and basic DOM interaction.  
+  A beginner-friendly e-commerce UI built with **React**.  
+  Practiced layout design, product cards, headers, and implemented **React Router** for page navigation.  
   🔗 [Live demo](https://josy216.github.io/My-Amazon/)  
   🔗 [Code](https://github.com/Josy216/My-Amazon)
 
