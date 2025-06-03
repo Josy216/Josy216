@@ -51,6 +51,15 @@ I'm confident in my ability to build powerful, real-world web applications and c
   🔗 [Live demo](https://josy216.github.io/My-Amazon/)  
   🔗 [Code](https://github.com/Josy216/My-Amazon)
 
+<li>
+  <strong>Apple Clone (Full Stack)</strong><br />
+  A full stack Apple website clone built with <strong>React</strong>, <strong>Node.js</strong>, and <strong>MySQL</strong> as part of an Evangadi Tech project.<br />
+  Practiced <strong>React fundamentals</strong>, <strong>API integration</strong> using the YouTube API, and built a responsive <strong>homepage</strong> and <strong>about page</strong>.<br />
+  Implemented <strong>React Router</strong> for navigation; most other routes redirect to the official Apple site just for fun .<br />
+  🔗 <a href="https://jocoded-atevang.netlify.app/#" target="_blank">Live demo</a><br />
+  🔗 <a href="https://github.com/Josy216/Apple" target="_blank">Code</a>
+</li>
+
 - 🌐 **Portfolio Website** — _HTML, CSS, JavaScript_  
   Personal developer portfolio showcasing skills, projects, and certificates.  
   🔗 [Live Demo](https://josteka.netlify.app) | 🔗 [Code](https://github.com/Josy216/final-port)
