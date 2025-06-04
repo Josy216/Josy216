@@ -42,13 +42,13 @@ I'm confident in my ability to build powerful, real-world web applications and c
 
 - 🎬 **Netflix Clone**  
   A streaming platform UI built with React and Firebase Auth.  
-  🔗 [Live demo](https://jocode-movies.netlify.app)  
+  🔗 [Live demo](https://net-dist-josy216s-projects.vercel.app/))  
   🔗 [Code](https://github.com/Josy216/netflix)
 
 - 🛒 **Amazon Clone**  
   A beginner-friendly e-commerce UI built with **React**.  
   Practiced layout design, product cards, headers, and implemented **React Router** for page navigation.  
-  🔗 [Live demo](https://josy216.github.io/My-Amazon/)  
+  🔗 [Live demo](https://distt-his-git-main-josy216s-projects.vercel.app/)  
   🔗 [Code](https://github.com/Josy216/My-Amazon)
 
 <li>
