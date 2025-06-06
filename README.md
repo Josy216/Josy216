@@ -51,6 +51,7 @@ I'm confident in my ability to build powerful, real-world web applications and c
   🔗 [Live demo](https://distt-his-git-main-josy216s-projects.vercel.app/)  
   🔗 [Code](https://github.com/Josy216/My-Amazon)
 
+
 <li>
   <strong>Apple Clone (Full Stack)</strong><br />
   A full stack Apple website clone built with <strong>React</strong>, <strong>Node.js</strong>, and <strong>MySQL</strong> as part of an Evangadi Tech project.<br />
@@ -59,6 +60,8 @@ I'm confident in my ability to build powerful, real-world web applications and c
   🔗 <a href="https://jocoded-atevang.netlify.app/#" target="_blank">Live demo</a><br />
   🔗 <a href="https://github.com/Josy216/Apple" target="_blank">Code</a>
 </li>
+
+
 
 - 🌐 **Portfolio Website** — _HTML, CSS, JavaScript_  
   Personal developer portfolio showcasing skills, projects, and certificates.  
