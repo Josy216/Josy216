@@ -66,7 +66,7 @@ I'm confident in my ability to build powerful, real-world web applications and c
   
 - 🌐 **Portfolio Website** — _HTML, CSS, JavaScript_  
   Personal developer portfolio showcasing skills, projects, and certificates.  
-  🔗 [Live Demo](https://josteka.netlify.app) | 🔗 [Code](https://github.com/Josy216/final-port)
+  🔗 [Live Demo](https://joseph-teka.netlify.app) |
 </li>
 
 Other projects are available in my repositories.
