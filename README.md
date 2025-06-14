@@ -40,6 +40,15 @@ I'm confident in my ability to build powerful, real-world web applications and c
 
 ## 🔥 Featured Projects
 
+<h3>🌐 Personal Portfolio Website</h3>
+<ul>
+  <li>A sleek and professional portfolio site built with <strong>React</strong> and modern web design principles.</li>
+  <li>Showcases all my <strong>projects</strong>, <strong>skills</strong>, and <strong>contact details</strong> in one place.</li>
+  <li>Focused on responsive layout, smooth navigation, and clean UI/UX.</li>
+  <li>🔗 <a href="https://joseph-teka.netlify.app/" target="_blank">Live demo</a></li>
+</ul>
+<hr/>
+
 - 🎬 **Netflix Clone**  
   A streaming platform UI built with React and Firebase Auth.  
   🔗 [Live demo](https://net-dist-josy216s-projects.vercel.app/))  
