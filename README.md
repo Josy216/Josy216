@@ -46,13 +46,9 @@ I'm confident in my ability to build powerful, real-world web applications and c
   <li>Showcases all my <strong>projects</strong>, <strong>skills</strong>, and <strong>contact details</strong> in one place.</li>
   <li>Focused on responsive layout, smooth navigation, and clean UI/UX.</li>
   <li>🔗 <a href="https://joseph-teka.netlify.app/" target="_blank">Live demo</a></li>
+  <li><a href="https://github.com/Josy216/portfolio">Code</a></li>
 </ul>
 <hr/>
-- 💼 **Developer Portfolio**  
-  A personal portfolio site to showcase my full-stack projects, skills, and contact info.  
-  Built with React and styled with custom CSS, and includes a working contact form via Getform.io.  
-  🔗 [Live site](https://joseph-teka.netlify.app)  
-  🔗 [Code](https://github.com/Josy216/portfolio)
 
 
 - 🎬 **Netflix Clone**  
