@@ -48,6 +48,12 @@ I'm confident in my ability to build powerful, real-world web applications and c
   <li>🔗 <a href="https://joseph-teka.netlify.app/" target="_blank">Live demo</a></li>
 </ul>
 <hr/>
+- 💼 **Developer Portfolio**  
+  A personal portfolio site to showcase my full-stack projects, skills, and contact info.  
+  Built with React and styled with custom CSS, and includes a working contact form via Getform.io.  
+  🔗 [Live site](https://joseph-teka.netlify.app)  
+  🔗 [Code](https://github.com/Josy216/portfolio)
+
 
 - 🎬 **Netflix Clone**  
   A streaming platform UI built with React and Firebase Auth.  
@@ -60,15 +66,13 @@ I'm confident in my ability to build powerful, real-world web applications and c
   🔗 [Live demo](https://distt-his-git-main-josy216s-projects.vercel.app/)  
   🔗 [Code](https://github.com/Josy216/My-Amazon)
 
-
-<li>
   <strong>Apple Clone (Full Stack)</strong><br />
   A full stack Apple website clone built with <strong>React</strong>, <strong>Node.js</strong>, and <strong>MySQL</strong> as part of an Evangadi Tech project.<br />
   Practiced <strong>React fundamentals</strong>, <strong>API integration</strong> using the YouTube API, and built a responsive <strong>homepage</strong> and <strong>about page</strong>.<br />
   Implemented <strong>React Router</strong> for navigation; most other routes redirect to the official Apple site just for fun .<br />
   🔗 <a href="https://jocoded-atevang.netlify.app/#" target="_blank">Live demo</a><br />
   🔗 <a href="https://github.com/Josy216/Apple" target="_blank">Code</a>
-</li>
+
 
 
 Other projects are available in my repositories.
