@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Joseph Teka
 
 **Full Stack Web Developer** | **Computer Science & Civil Engineering Student**  
-📍 Ethiopia | 🌐 Building real-world web platforms | 💻 Passionate about scalable tech
+📍 Ethiopia | 🌐 Building real-world platforms | 💻 Passionate about scalable tech
 
 ---
 
@@ -10,7 +10,8 @@
 Hey there — I’m Joseph Teka, a passionate and creative full-stack web developer with a strong eye for clean design, efficient code, and intuitive user experiences.  
 I’m currently studying **Computer Science** at Jimma University and graduated from the **Evangadi Tech Bootcamp**.
 
-I build full-stack applications using tools like **React**, **Node.js**, **Express**, **Supabase**, and **MySQL**, and I’ve created several real-world platforms from scratch — from Netflix clones to dev toolkits. I continuously sharpen my skills and enjoy turning bold ideas into fast, functional software.
+I build full-stack applications using tools like **React**, **Node.js**, **Express**, **Supabase**, and **MySQL**, and I’ve created several real-world platforms from scratch — from Netflix clones to dev toolkits.  
+I continuously sharpen my skills and enjoy turning bold ideas into fast, functional software.
 
 ---
 
@@ -53,53 +54,89 @@ I build full-stack applications using tools like **React**, **Node.js**, **Expre
 
 ---
 
-## 🚀 Main Projects
+## 🚀 Key Projects
 
-- 🎯 [**Jocode Dev Tool**](https://jocode-devtools.netlify.app/)  
-  Curates 500+ developer tools for beginners and pros.  
-  _Tech_: React, Tailwind, Netlify
+### 🧠 Main Projects
 
-- 🎬 [**Netflix Clone**](https://net-dist.vercel.app/)  
-  Movie platform with Firebase Auth + TMDB API.  
-  [Code](https://github.com/Josy216/netflix)
+- **[Jocode Dev Tool](https://jocode-devtools.netlify.app/)**  
+  _A full developer platform with 500+ tools, docs, roadmaps, and daily-use utilities for devs._  
 
-- 🛒 [**Amazon Clone**](https://distt-his-git-main-josy216s-projects.vercel.app/#/)  
-  E-commerce UI + cart + Stripe.  
-  [Code](https://github.com/Josy216/AmazonBackend)
+- **[Netflix Clone](https://net-dist.vercel.app/)**  
+  _React + Firebase + TMDB API + Auth. Binge-style frontend with auth & video grid._  
+  [GitHub](https://github.com/Josy216/netflix)
 
-- 💬 [**Evangadi Forum**](https://evanforum.com/)  
-  Full-stack community Q&A forum.
+- **[Amazon Clone](https://distt-his-git-main-josy216s-projects.vercel.app/#/)**  
+  _Ecommerce site w/ checkout, product cards, backend & Stripe integration._  
+  [GitHub](https://github.com/Josy216/AmazonBackend)
 
-- 🍎 [**Apple Clone**](https://jotekasap-le.netlify.app/)  
-  Stylish Apple.com UI + YouTube API.  
-  [Code](https://github.com/Josy216/Apple)
+- **[Apple Clone](https://jotekasap-le.netlify.app/)**  
+  _Sleek landing page inspired by Apple.com using React + MySQL + YouTube API._  
+  [GitHub](https://github.com/Josy216/Apple)
 
-- 🖼️ [**Unsplash Clone**](https://joseph-unsplash.netlify.app/)  
-  API-based image search.  
-  [Code](https://github.com/Josy216/Joseph-unsplash-API)
+- **[Evangadi Forum](https://evanforum.com/)**  
+  _A real forum for Q&A built during the Evangadi Bootcamp._  
 
-- 📺 [**Alex Tube**](https://alexfegegfegeg.netlify.app/)  
-  Fun YouTube video interface clone.  
-  [Code](https://github.com/Josy216/netflix)
+- **[Alex Tube](https://alexfegegfegeg.netlify.app/)**  
+  _React YouTube frontend for fun binge-watching with horizontal sliders._  
+  [GitHub](https://github.com/Josy216/netflix)
+
+- **[Unsplash Clone](https://joseph-unsplash.netlify.app/)**  
+  _A blazing-fast Unsplash image search + download tool._  
+  [GitHub](https://github.com/Josy216/Joseph-unsplash-API)
 
 ---
 
-## 📘 Learning Projects
+### 🛠️ Learning Projects
 
-- 🧱 [Frontend Journey (20+ Projects)](https://josteka.netlify.app/)  
-  Raw grind through HTML/CSS/JS  
-  [Code](https://github.com/josephteka/color-generator)
+- **[My Frontend Journey](https://josteka.netlify.app/)**  
+  _Over 20 small projects in one site — raw HTML/CSS/JS practice._  
+  [GitHub](https://github.com/josephteka/color-generator)
 
-- 🔐 [QR Code Generator](https://jo-qr-code.netlify.app/)  
-  Create secure QR codes  
-  [Code](https://github.com/Josy216/final-port)
+- **[QR Code Generator](https://jo-qr-code.netlify.app/)**  
+  _Create QR codes for URLs & secure text._  
+  [GitHub](https://github.com/Josy216/final-port)
 
-- 📝 [TodoList App](https://joseph-todo.netlify.app/)  
-  Task manager with JS  
-  [Code](https://github.com/josephteka/quote-generator)
+- **[TodoList App](https://joseph-todo.netlify.app/)**  
+  _Add/edit/delete daily tasks with localStorage._  
+  [GitHub](https://github.com/josephteka/quote-generator)
 
-- 💡 [Quote Generator](https://dailquote.netlify.app/)  
-  Daily inspirational quotes  
-  [Code](https://github.com/Josy216/Generator-Qoute)
+- **[Quote Generator](https://dailquote.netlify.app/)**  
+  _Uplifting quotes + randomizer._  
+  [GitHub](https://github.com/Josy216/Generator-Qoute)
 
-- 🧠 [Notion
+- **[Notion Clone](https://my-notion-five-rust.vercel.app/)**  
+  _Fun note-taking app saving to localStorage._  
+  [GitHub](https://github.com/Josy216/my-notion)
+
+- **[Color Generator](https://josy-hex-code.netlify.app/)**  
+  _Generate random HEX + RGB colors for UI ideas._  
+  [GitHub](https://github.com/Josy216/hexa-color-code)
+
+---
+
+## 📜 Certifications
+
+- ✅ Full Stack Web Development – **Evangadi Tech Bootcamp**  
+- ✅ Java Programming Basics  
+- ✅ C++ Foundations
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josy216&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josy216&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-teka-271661309)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/josephteka)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jocode216)
+
+---
+
+🧠 _“Forced to write code, born to ship real software.”_
