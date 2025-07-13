@@ -12,11 +12,6 @@ Hi there — I'm **Joseph Teka**, a passionate full-stack web developer on a mis
 
 🎓 I'm currently studying **Computer Science at Jimma University** while also freelancing and building digital products used by real people. I’m a proud graduate of the **Evangadi Full Stack Bootcamp**, where I sharpened my frontend and backend skills across a wide range of technologies.
 
-💡 I specialize in:
-- **Frontend**: React, Tailwind, Bootstrap, JavaScript
-- **Backend**: Node.js, Express, Supabase, Firebase, MySQL, MongoDB
-- **Tools**: Git, GitHub, Netlify, Vercel, Stripe, APIs
-
 🛠️ My approach is always:
 - **User-first** → Clean UI & smooth UX  
 - **Result-driven** → Fast load times, smart architecture  
