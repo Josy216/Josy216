@@ -1,106 +1,71 @@
+# 👨🏽‍💻 Joseph Teka
 
-<h1 align="center">Hi there 👋, I'm Joseph Teka</h1>
-
-<h3 align="center">🚀 Full Stack Web Developer.</h3>
-
-<p align="center">
-  👨‍💻 Computer Science student at <strong>Jimma University, Ethiopia</strong><br>
-  💻 Passionate about building modern, scalable web apps using the latest technologies.<br>
-  🌍 Graduate of the highly respected <strong>Evangadi Tech Bootcamp</strong>, where I built real-world apps like Netflix clones, forums, portfolios, and more.
-</p>
+**Full Stack Web Developer** | **Computer Science & Civil Engineering Student**  
+📍 Ethiopia | 🌐 Building real-world web platforms | 💻 Passionate about scalable tech
 
 ---
 
-## 👨‍💻 About Me
+## 🔧 Tech Stack
 
-I'm a dedicated full stack web developer and computer science student. I trained at **Evangadi Tech**, an intensive bootcamp, where I learned full stack development from scratch — including **React**, **Node.js**, **Express**, **MySQL**, and more.
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-We built real-world, scalable projects like Netflix, Amazon, Apple clones, and dynamic forums. I collaborated with developers across the globe and learned not only how to code, but how the web really works — from frontend rendering to backend logic, databases, APIs, and hosting.
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-I'm confident in my ability to build powerful, real-world web applications and continue to learn every day through new challenges and projects.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-</p>
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 📌 Key Projects
 
-<h3>🌐 Personal Portfolio Website</h3>
-<ul>
-  <li>A sleek and professional portfolio site built with <strong>React</strong> and modern web design principles.</li>
-  <li>Showcases all my <strong>projects</strong>, <strong>skills</strong>, and <strong>contact details</strong> in one place.</li>
-  <li>Focused on responsive layout, smooth navigation, and clean UI/UX.</li>
-  <li>🔗 <a href="https://joseph-teka.netlify.app/" target="_blank">Live demo</a></li>
-  <li><a href="https://github.com/Josy216/portfolio">Code</a></li>
-</ul>
-<hr/>
+### 🖥️ [Personal Portfolio](https://joseph-teka.netlify.app/)
+Built with React and responsive UI. Highlights projects, skills, and contact info.
 
+### 🎬 [Netflix Clone](https://github.com/Josy216/netflix)
+React + Firebase Authentication + TMDB API
 
-- 🎬 **Netflix Clone**  
-  A streaming platform UI built with React and Firebase Auth.  
-  🔗 [Live demo](https://net-dist-josy216s-projects.vercel.app/))  
-  🔗 [Code](https://github.com/Josy216/netflix)
+### 🛍️ [Amazon Clone](https://github.com/Josy216/My-Amazon)
+E-commerce layout with product cards, search, and cart design.
 
-- 🛒 **Amazon Clone**  
-  A beginner-friendly e-commerce UI built with **React**.  
-  Practiced layout design, product cards, headers, and implemented **React Router** for page navigation.  
-  🔗 [Live demo](https://distt-his-git-main-josy216s-projects.vercel.app/)  
-  🔗 [Code](https://github.com/Josy216/My-Amazon)
-
-  <strong>Apple Clone (Full Stack)</strong><br />
-  A full stack Apple website clone built with <strong>React</strong>, <strong>Node.js</strong>, and <strong>MySQL</strong> as part of an Evangadi Tech project.<br />
-  Practiced <strong>React fundamentals</strong>, <strong>API integration</strong> using the YouTube API, and built a responsive <strong>homepage</strong> and <strong>about page</strong>.<br />
-  Implemented <strong>React Router</strong> for navigation; most other routes redirect to the official Apple site just for fun .<br />
-  🔗 <a href="https://jocoded-atevang.netlify.app/#" target="_blank">Live demo</a><br />
-  🔗 <a href="https://github.com/Josy216/Apple" target="_blank">Code</a>
-
-
-
-Other projects are available in my repositories.
+### 🍎 [Apple Clone](https://github.com/Josy216/Apple)
+Full-stack Apple homepage using React + Node.js + MySQL + YouTube API
 
 ---
 
 ## 📜 Certifications
 
+- ✅ Full Stack Web Dev – Evangadi Tech Bootcamp  
+- ✅ Java Basics  
+- ✅ C++ Foundations  
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://josateka.netlify.app/certificates/web.jpg" alt="Web Dev Certificate" width="250"/>
-  <img src="https://josateka.netlify.app/certificates/c++.png" alt="C++ Certificate" width="250"/>
-  <img src="https://josateka.netlify.app/certificates/java.jpg" alt="Java Certificate" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Josy216&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josy216&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact
 
-<p align="center">
-  <a href="https://t.me/josephteka" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/joseph-teka-271661309" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/codesprin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" alt="Telegram Group" />
-  </a>
-  <a href="https://www.tiktok.com/@jocode216" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="30" alt="TikTok" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-teka-271661309)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/josephteka)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jocode216)
 
-<p align="center"><em>"Forced to write code, born to be creative."</em><br>
-<em>— Proudly building the future from Ethiopia to the world.</em></p>
+---
+
+🧠 _“Forced to write code, born to ship real software.”_
