@@ -1,21 +1,20 @@
 # 👨🏽‍💻 Joseph Teka
 
-**Full Stack Web Developer** | **Computer Science & Civil Engineering Student**  
-📍 Ethiopia | 🌐 Building real-world platforms | 💻 Passionate about scalable tech
+### _"Building bold ideas into real software."_  
+**Full Stack Web Developer** | CS + Civil Engineering Student  
+📍 Ethiopia | 💻 Coding Real-World Platforms | 🚀 Freelance Dev | 🎓 Evangadi Grad
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
-Hey there — I’m Joseph Teka, a passionate and creative full-stack web developer with a strong eye for clean design, efficient code, and intuitive user experiences.  
-I’m currently studying **Computer Science** at Jimma University and graduated from the **Evangadi Tech Bootcamp**.
+Hey there! I’m **Joseph Teka**, a passionate full-stack web developer who turns code into clean, scalable, and impactful products. I build real-world web apps — from Netflix clones and dev tools to e-commerce platforms — all from scratch using **React**, **Node.js**, **Supabase**, and more.
 
-I build full-stack applications using tools like **React**, **Node.js**, **Express**, **Supabase**, and **MySQL**, and I’ve created several real-world platforms from scratch — from Netflix clones to dev toolkits.  
-I continuously sharpen my skills and enjoy turning bold ideas into fast, functional software.
+I’m pursuing a **Computer Science degree** at Jimma University while freelancing and constantly shipping projects. I’ve graduated from the **Evangadi Full Stack Bootcamp** and continue to push boundaries with new tech and ideas. I love solving real problems through software — fast, smart, and user-first.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
 ### 🧱 Web Fundamentals  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +45,7 @@ I continuously sharpen my skills and enjoy turning bold ideas into fast, functio
 ![Getform](https://img.shields.io/badge/Getform-000000?style=for-the-badge&logo=maildotru&logoColor=white)
 ![Tawk.to](https://img.shields.io/badge/Tawk.to-2CB67D?style=for-the-badge&logo=tawk-dot-to&logoColor=white)
 
-### ⚙️ Tools & DevOps  
+### ⚙️ DevOps & Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -54,75 +53,42 @@ I continuously sharpen my skills and enjoy turning bold ideas into fast, functio
 
 ---
 
-## 🚀 Key Projects
+## 📦 Featured Projects
 
-### 🧠 Main Projects
-
-- **[Jocode Dev Tool](https://jocode-devtools.netlify.app/)**  
-  _A full developer platform with 500+ tools, docs, roadmaps, and daily-use utilities for devs._  
-
-- **[Netflix Clone](https://net-dist.vercel.app/)**  
-  _React + Firebase + TMDB API + Auth. Binge-style frontend with auth & video grid._  
-  [GitHub](https://github.com/Josy216/netflix)
-
-- **[Amazon Clone](https://distt-his-git-main-josy216s-projects.vercel.app/#/)**  
-  _Ecommerce site w/ checkout, product cards, backend & Stripe integration._  
-  [GitHub](https://github.com/Josy216/AmazonBackend)
-
-- **[Apple Clone](https://jotekasap-le.netlify.app/)**  
-  _Sleek landing page inspired by Apple.com using React + MySQL + YouTube API._  
-  [GitHub](https://github.com/Josy216/Apple)
-
-- **[Evangadi Forum](https://evanforum.com/)**  
-  _A real forum for Q&A built during the Evangadi Bootcamp._  
-
-- **[Alex Tube](https://alexfegegfegeg.netlify.app/)**  
-  _React YouTube frontend for fun binge-watching with horizontal sliders._  
-  [GitHub](https://github.com/Josy216/netflix)
-
-- **[Unsplash Clone](https://joseph-unsplash.netlify.app/)**  
-  _A blazing-fast Unsplash image search + download tool._  
-  [GitHub](https://github.com/Josy216/Joseph-unsplash-API)
+| Name | Description | Live Demo | GitHub |
+|------|-------------|-----------|--------|
+| **Jocode Dev Tool** | Dev utility platform with 500+ curated tools, docs & APIs | [Live](https://jocode-devtools.netlify.app/) | `Private` |
+| **Netflix Clone** | React + Firebase streaming site with dynamic content | [Live](https://net-dist.vercel.app/) | [Repo](https://github.com/Josy216/netflix) |
+| **Amazon Clone** | Full e-commerce UI with Stripe payments and backend | [Live](https://distt-his-git-main-josy216s-projects.vercel.app/#/) | [Repo](https://github.com/Josy216/AmazonBackend) |
+| **Apple Clone** | Polished Apple.com homepage clone with YouTube API | [Live](https://jotekasap-le.netlify.app/) | [Repo](https://github.com/Josy216/Apple) |
+| **Evangadi Forum** | Student Q&A forum using full-stack architecture | [Live](https://evanforum.com/) | `Private` |
+| **Alex Tube** | Fun YouTube binge-style site with React sliders | [Live](https://alexfegegfegeg.netlify.app/) | [Repo](https://github.com/Josy216/netflix) |
+| **Unsplash Clone** | Photo search engine with instant download | [Live](https://joseph-unsplash.netlify.app/) | [Repo](https://github.com/Josy216/Joseph-unsplash-API) |
 
 ---
 
-### 🛠️ Learning Projects
+## 📚 Learning Projects
 
-- **[My Frontend Journey](https://josteka.netlify.app/)**  
-  _Over 20 small projects in one site — raw HTML/CSS/JS practice._  
-  [GitHub](https://github.com/josephteka/color-generator)
-
-- **[QR Code Generator](https://jo-qr-code.netlify.app/)**  
-  _Create QR codes for URLs & secure text._  
-  [GitHub](https://github.com/Josy216/final-port)
-
-- **[TodoList App](https://joseph-todo.netlify.app/)**  
-  _Add/edit/delete daily tasks with localStorage._  
-  [GitHub](https://github.com/josephteka/quote-generator)
-
-- **[Quote Generator](https://dailquote.netlify.app/)**  
-  _Uplifting quotes + randomizer._  
-  [GitHub](https://github.com/Josy216/Generator-Qoute)
-
-- **[Notion Clone](https://my-notion-five-rust.vercel.app/)**  
-  _Fun note-taking app saving to localStorage._  
-  [GitHub](https://github.com/Josy216/my-notion)
-
-- **[Color Generator](https://josy-hex-code.netlify.app/)**  
-  _Generate random HEX + RGB colors for UI ideas._  
-  [GitHub](https://github.com/Josy216/hexa-color-code)
+| Name | Description | Live | GitHub |
+|------|-------------|------|--------|
+| Frontend Journey | 20+ raw HTML/CSS/JS mini projects | [Live](https://josteka.netlify.app/) | [Repo](https://github.com/josephteka/color-generator) |
+| QR Code Generator | Create secure QR codes with custom links | [Live](https://jo-qr-code.netlify.app/) | [Repo](https://github.com/Josy216/final-port) |
+| Todo List | Task manager with CRUD and localStorage | [Live](https://joseph-todo.netlify.app/) | [Repo](https://github.com/josephteka/quote-generator) |
+| Quote Generator | Inspiring quote site with endless facts | [Live](https://dailquote.netlify.app/) | [Repo](https://github.com/Josy216/Generator-Qoute) |
+| Notion Clone | Funny note app saved locally | [Live](https://my-notion-five-rust.vercel.app/) | [Repo](https://github.com/Josy216/my-notion) |
+| Color Generator | Random hex/RGB color combos for designers | [Live](https://josy-hex-code.netlify.app/) | [Repo](https://github.com/Josy216/hexa-color-code) |
 
 ---
 
 ## 📜 Certifications
 
-- ✅ Full Stack Web Development – **Evangadi Tech Bootcamp**  
+- ✅ Full Stack Web Development – **Evangadi Tech**
 - ✅ Java Programming Basics  
 - ✅ C++ Foundations
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Josy216&show_icons=true&theme=tokyonight" height="180" />
@@ -131,7 +97,7 @@ I continuously sharpen my skills and enjoy turning bold ideas into fast, functio
 
 ---
 
-## 📫 Contact
+## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-teka-271661309)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/josephteka)
