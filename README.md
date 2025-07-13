@@ -1,18 +1,32 @@
-# 👨🏽‍💻 Joseph Teka
+## 👨🏽‍💻 Joseph Teka  
+_“Building bold ideas into real software.”_
 
-### _"Building bold ideas into real software."_  
-**Full Stack Web Developer** | CS + Civil Engineering Student  
-📍 Ethiopia | 💻 Coding Real-World Platforms | 🚀 Freelance Dev | 🎓 Evangadi Grad
+**Full Stack Web Developer** | **Computer Science Student**  
+📍 Ethiopia | 💻 Real-World Problem Solver | 🚀 Freelance Developer | 🎓 Evangadi Bootcamp Graduate
 
 ---
 
 ## 🧠 About Me
 
-Hey there! I’m **Joseph Teka**, a passionate full-stack web developer who turns code into clean, scalable, and impactful products. I build real-world web apps — from Netflix clones and dev tools to e-commerce platforms — all from scratch using **React**, **Node.js**, **Supabase**, and more.
+Hi there — I'm **Joseph Teka**, a passionate full-stack web developer on a mission to build useful, beautiful, and high-performance web applications. Whether it’s cloning big brands like **Netflix and Amazon**, or developing dev tools to support the coding community, I turn ideas into code — fast, clean, and scalable.
 
-I’m pursuing a **Computer Science degree** at Jimma University while freelancing and constantly shipping projects. I’ve graduated from the **Evangadi Full Stack Bootcamp** and continue to push boundaries with new tech and ideas. I love solving real problems through software — fast, smart, and user-first.
+🎓 I'm currently studying **Computer Science at Jimma University** while also freelancing and building digital products used by real people. I’m a proud graduate of the **Evangadi Full Stack Bootcamp**, where I sharpened my frontend and backend skills across a wide range of technologies.
+
+💡 I specialize in:
+- **Frontend**: React, Tailwind, Bootstrap, JavaScript
+- **Backend**: Node.js, Express, Supabase, Firebase, MySQL, MongoDB
+- **Tools**: Git, GitHub, Netlify, Vercel, Stripe, APIs
+
+🛠️ My approach is always:
+- **User-first** → Clean UI & smooth UX  
+- **Result-driven** → Fast load times, smart architecture  
+- **Real-world ready** → No fluff, just functional software
+
+I code with purpose — to **help people**, **solve problems**, and **push myself to the edge of creativity and logic.**
 
 ---
+
+
 
 ## 🚀 Tech Stack
 
