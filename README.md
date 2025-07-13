@@ -5,109 +5,101 @@
 
 ---
 
-## 🔧 Tech Stack
+## 👋 About Me
 
-### Frontend  
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Hey there — I’m Joseph Teka, a passionate and creative full-stack web developer with a strong eye for clean design, efficient code, and intuitive user experiences.  
+I’m currently studying **Computer Science** at Jimma University and graduated from the **Evangadi Tech Bootcamp**.
+
+I build full-stack applications using tools like **React**, **Node.js**, **Express**, **Supabase**, and **MySQL**, and I’ve created several real-world platforms from scratch — from Netflix clones to dev toolkits. I continuously sharpen my skills and enjoy turning bold ideas into fast, functional software.
+
+---
+
+## 💻 Tech Stack
+
+### 🧱 Web Fundamentals  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚛️ Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 🛠 Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & DevOps  
+### 🔌 Backend Services & APIs  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)
+![Formspree](https://img.shields.io/badge/Formspree-FF4F64?style=for-the-badge&logo=maildotru&logoColor=white)
+![Getform](https://img.shields.io/badge/Getform-000000?style=for-the-badge&logo=maildotru&logoColor=white)
+![Tawk.to](https://img.shields.io/badge/Tawk.to-2CB67D?style=for-the-badge&logo=tawk-dot-to&logoColor=white)
+
+### ⚙️ Tools & DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🖥️ Main Projects
+## 🚀 Main Projects
 
-| Project | Description | Demo | Code |
-|--------|-------------|------|------|
-| **Jocode Dev Tool** | A platform with 500+ dev tools, roadmaps & snippets for fast learning & execution. | [Live](https://jocode-devtools.netlify.app/) | _Private_ |
-| **Netflix Clone** | Streaming app with Firebase Auth, TMDB API & React sliders. | [Live](https://net-dist.vercel.app/) | [Code](https://github.com/Josy216/netflix) |
-| **Amazon Clone** | E-commerce platform with Stripe checkout & backend. | [Live](https://distt-his-git-main-josy216s-projects.vercel.app/) | [Code](https://github.com/Josy216/AmazonBackend) |
-| **Evangadi Forum** | Q&A platform built for student peer-learning. | [Live](https://evanforum.com/) | _Private_ |
-| **Apple Clone** | React + Node + MySQL full stack clone of Apple’s homepage. | [Live](https://jotekasap-le.netlify.app/) | [Code](https://github.com/Josy216/Apple) |
-| **Unsplash Clone** | HD image search from Unsplash API. | [Live](https://joseph-unsplash.netlify.app/) | [Code](https://github.com/Josy216/Joseph-unsplash-API) |
-| **Alex Tube** | Netflix-like YouTube channel UI, no login needed. | [Live](https://alexfegegfegeg.netlify.app/) | [Code](https://github.com/Josy216/netflix) |
+- 🎯 [**Jocode Dev Tool**](https://jocode-devtools.netlify.app/)  
+  Curates 500+ developer tools for beginners and pros.  
+  _Tech_: React, Tailwind, Netlify
 
----
+- 🎬 [**Netflix Clone**](https://net-dist.vercel.app/)  
+  Movie platform with Firebase Auth + TMDB API.  
+  [Code](https://github.com/Josy216/netflix)
 
-## 🧪 Learning Projects
+- 🛒 [**Amazon Clone**](https://distt-his-git-main-josy216s-projects.vercel.app/#/)  
+  E-commerce UI + cart + Stripe.  
+  [Code](https://github.com/Josy216/AmazonBackend)
 
-| Project | Description | Demo | Code |
-|--------|-------------|------|------|
-| **Frontend Journey (20+ Mini Projects)** | HTML, CSS, JS projects built from scratch to React. | [Live](https://josteka.netlify.app/) | [Code](https://github.com/josephteka/color-generator) |
-| **QR Code Generator** | Set links/text in private QR codes. | [Live](https://jo-qr-code.netlify.app/) | [Code](https://github.com/Josy216/final-port) |
-| **TodoList App** | Basic CRUD todo app in vanilla JS. | [Live](https://joseph-todo.netlify.app/) | [Code](https://github.com/josephteka/quote-generator) |
-| **Quote Generator** | Random motivational quotes app. | [Live](https://dailquote.netlify.app/) | [Code](https://github.com/Josy216/Generator-Qoute) |
-| **Notion Clone** | LocalStorage-based notes app. | [Live](https://my-notion-five-rust.vercel.app/) | [Code](https://github.com/Josy216/my-notion) |
-| **Color Generator** | HEX & RGB random color tool. | [Live](https://josy-hex-code.netlify.app/) | [Code](https://github.com/Josy216/hexa-color-code) |
+- 💬 [**Evangadi Forum**](https://evanforum.com/)  
+  Full-stack community Q&A forum.
 
----
+- 🍎 [**Apple Clone**](https://jotekasap-le.netlify.app/)  
+  Stylish Apple.com UI + YouTube API.  
+  [Code](https://github.com/Josy216/Apple)
 
-## 📚 Web Fundamentals
+- 🖼️ [**Unsplash Clone**](https://joseph-unsplash.netlify.app/)  
+  API-based image search.  
+  [Code](https://github.com/Josy216/Joseph-unsplash-API)
 
-- ✅ HTML5 (semantics, forms, audio/video)
-- ✅ CSS3 (flexbox, grid, animations)
-- ✅ JavaScript (DOM, fetch API, ES6+)
-- ✅ Bootstrap (grid, cards, modals)
+- 📺 [**Alex Tube**](https://alexfegegfegeg.netlify.app/)  
+  Fun YouTube video interface clone.  
+  [Code](https://github.com/Josy216/netflix)
 
 ---
 
-## 🧩 Frameworks & Libraries
+## 📘 Learning Projects
 
-- 🔹 Tailwind CSS  
-- 🔹 React, React Router  
-- 🔹 Next.js (experimenting)  
-- 🔹 Node.js, Express.js  
+- 🧱 [Frontend Journey (20+ Projects)](https://josteka.netlify.app/)  
+  Raw grind through HTML/CSS/JS  
+  [Code](https://github.com/josephteka/color-generator)
 
----
+- 🔐 [QR Code Generator](https://jo-qr-code.netlify.app/)  
+  Create secure QR codes  
+  [Code](https://github.com/Josy216/final-port)
 
-## 🔌 Backend Services & APIs
+- 📝 [TodoList App](https://joseph-todo.netlify.app/)  
+  Task manager with JS  
+  [Code](https://github.com/josephteka/quote-generator)
 
-- ⚙️ **Supabase** – Auth, Realtime DB  
-- 🔐 **Firebase** – Auth, Firestore, Hosting  
-- 💳 **Stripe** – Payments  
-- 🎥 **YouTube API** – Video embedding  
-- 🎞️ **TMDB API** – Movie data  
-- 🖼️ **Unsplash API** – Image search  
-- 📩 **Formspree / Getform** – Contact forms  
-- 💬 **Tawk.to** – Live chat  
+- 💡 [Quote Generator](https://dailquote.netlify.app/)  
+  Daily inspirational quotes  
+  [Code](https://github.com/Josy216/Generator-Qoute)
 
----
-
-## 📜 Certifications
-
-- ✅ Full Stack Web Dev – *Evangadi Tech Bootcamp*  
-- ✅ Java Basics  
-- ✅ C++ Programming  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josy216&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josy216&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-teka-271661309)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/josephteka)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jocode216)
-
----
-
-_“Forced to write code, born to ship real software.”_
+- 🧠 [Notion
