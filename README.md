@@ -96,16 +96,6 @@ I code with purpose — to **help people**, **solve problems**, and **push mysel
 - ✅ C++ Foundations
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josy216&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josy216&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-teka-271661309)
